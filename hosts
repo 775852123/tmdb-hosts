@@ -1,0 +1,27 @@
+#通过修改hosts解决Emby无法更新海报墙问题！
+#订阅地址：https://raw.githubusercontent.com/775852123/tmdb-hosts/main/hosts
+#本tmdb-hosts不定期更新中...
+#更新日期：2024.1.18
+
+52.84.251.20 api.themoviedb.org
+52.84.251.53 api.themoviedb.org
+52.84.251.35 api.themoviedb.org
+52.84.251.25 api.themoviedb.org
+18.238.192.8 api.tmdb.org
+18.238.192.90 api.tmdb.org
+18.238.192.58 api.tmdb.org
+18.238.192.100 api.tmdb.org
+54.192.18.90 themoviedb.org
+54.192.18.58 themoviedb.org
+54.192.18.2 themoviedb.org
+54.192.18.100 themoviedb.org
+138.199.37.231 image.tmdb.org
+18.165.76.102 api.thetvdb.com
+99.84.210.185 thetvdb.com
+158.69.0.103 assets.fanart.tv
+192.99.151.161 assets.fanart.tv
+
+#通过修改hosts解决Emby无法更新海报墙问题！
+#订阅地址：https://raw.githubusercontent.com/775852123/tmdb-hosts/main/hosts
+#本tmdb-hosts不定期更新中...
+#更新日期：2024.1.18
