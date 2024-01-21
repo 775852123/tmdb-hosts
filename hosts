@@ -38,7 +38,7 @@
 2600:9000:25f1:8800:10:fb02:4000:93a1 api.tmdb.org
 2600:9000:25f1:a000:10:fb02:4000:93a1 api.tmdb.org
 2600:9000:25f1:e800:10:fb02:4000:93a1 api.tmdb.org
-2600:9000:25f1:de00:10:fb02:4000:93a1	api.tmdb.org
+2600:9000:25f1:de00:10:fb02:4000:93a1 api.tmdb.org
 2600:9000:20a6:a400:e:5373:440:93a1 themoviedb.org
 2600:9000:20a6:a000:e:5373:440:93a1 themoviedb.org
 2600:9000:20a6:ba00:e:5373:440:93a1 themoviedb.org
@@ -46,7 +46,7 @@
 2600:9000:20a6:f400:e:5373:440:93a1 themoviedb.org
 2600:9000:20a6:6a00:e:5373:440:93a1 themoviedb.org
 2600:9000:20a6:be00:e:5373:440:93a1 themoviedb.org
-2600:9000:20a6:4800:e:5373:440:93a1	 themoviedb.org
+2600:9000:20a6:4800:e:5373:440:93a1	themoviedb.org
 2400:52e0:1a01::1113:1 image.tmdb.org
 #--------------------IPV6---------------------
 #通过修改hosts解决Emby无法更新海报墙问题！
