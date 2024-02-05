@@ -53,4 +53,10 @@
 2600:9000:20a6:be00:e:5373:440:93a1 themoviedb.org
 2600:9000:20a6:4800:e:5373:440:93a1	themoviedb.org
 2400:52e0:1a01::1113:1 image.tmdb.org
+#--------------------其它---------------------
+172.217.160.110 translate.google.com
+216.239.35.8 time.google.com
+216.239.35.12 time.google.com
+216.239.35.4 time.google.com
+216.239.35.0 time.google.com
 #--------------------结束---------------------
