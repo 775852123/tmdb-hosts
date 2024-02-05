@@ -1,7 +1,7 @@
 #通过修改hosts解决Emby无法更新海报墙问题！
 #订阅地址：https://raw.githubusercontent.com/775852123/tmdb-hosts/main/hosts
 #本tmdb-hosts不定期更新中...
-#更新日期：2024.1.27
+#更新日期：2024.2.5
 #--------------------IPV4---------------------
 65.8.161.111 api.themoviedb.org
 65.8.161.83 api.themoviedb.org
@@ -24,36 +24,13 @@
 65.8.170.107 thetvdb.com
 158.69.0.103 assets.fanart.tv
 192.99.151.161 assets.fanart.tv
+51.89.210.79 webservice.fanart.tv
 104.26.13.126 fanart.tv
 172.67.74.146 fanart.tv
 104.26.12.126 fanart.tv
-#--------------------IPV6---------------------
-2600:9000:2146:2600:c:174a:c400:93a1 api.themoviedb.org
-2600:9000:2146:1e00:c:174a:c400:93a1 api.themoviedb.org
-2600:9000:2146:600:c:174a:c400:93a1 api.themoviedb.org
-2600:9000:2146:3600:c:174a:c400:93a1 api.themoviedb.org
-2600:9000:2146:c800:c:174a:c400:93a1 api.themoviedb.org
-2600:9000:2146:b800:c:174a:c400:93a1 api.themoviedb.org
-2600:9000:2146:b400:c:174a:c400:93a1 api.themoviedb.org
-2600:9000:2146:6c00:c:174a:c400:93a1 api.themoviedb.org
-2600:9000:25f1:5a00:10:fb02:4000:93a1 api.tmdb.org
-2600:9000:25f1:3200:10:fb02:4000:93a1 api.tmdb.org
-2600:9000:25f1:b400:10:fb02:4000:93a1 api.tmdb.org
-2600:9000:25f1:fc00:10:fb02:4000:93a1 api.tmdb.org
-2600:9000:25f1:8800:10:fb02:4000:93a1 api.tmdb.org
-2600:9000:25f1:a000:10:fb02:4000:93a1 api.tmdb.org
-2600:9000:25f1:e800:10:fb02:4000:93a1 api.tmdb.org
-2600:9000:25f1:de00:10:fb02:4000:93a1 api.tmdb.org
-2600:9000:20a6:a400:e:5373:440:93a1 themoviedb.org
-2600:9000:20a6:a000:e:5373:440:93a1 themoviedb.org
-2600:9000:20a6:ba00:e:5373:440:93a1 themoviedb.org
-2600:9000:20a6:a800:e:5373:440:93a1 themoviedb.org
-2600:9000:20a6:f400:e:5373:440:93a1 themoviedb.org
-2600:9000:20a6:6a00:e:5373:440:93a1 themoviedb.org
-2600:9000:20a6:be00:e:5373:440:93a1 themoviedb.org
-2600:9000:20a6:4800:e:5373:440:93a1	themoviedb.org
-2400:52e0:1a01::1113:1 image.tmdb.org
-#--------------------其它---------------------
+172.67.158.44 api.opensubtitles.org
+104.21.14.73 api.opensubtitles.org
+#----------------谷歌翻译/NTP------------------
 172.217.160.110 translate.google.com
 216.239.35.8 time.google.com
 216.239.35.12 time.google.com
