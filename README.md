@@ -6,7 +6,7 @@
 
 **软件下载**：https://github.com/oldj/SwitchHosts/releases
 
-**订阅地址**：https://raw.githubusercontent.com/775852123/tmdb-hosts/main/hosts
+**订阅地址**：https://mirror.ghproxy.com/https://raw.githubusercontent.com/775852123/tmdb-hosts/main/hosts
 
 **图文教程**：
 
