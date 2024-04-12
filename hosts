@@ -2,47 +2,23 @@
 #订阅地址：https://raw.githubusercontent.com/775852123/tmdb-hosts/main/hosts
 #本tmdb-hosts不定期更新中...
 #更新日期：2024.3.25
-#--------------------海报墙---------------------
-13.224.163.98 api.themoviedb.org
-13.224.163.26 api.themoviedb.org
-13.224.163.85 api.themoviedb.org
-13.224.163.120 api.themoviedb.org
-#
+#--------------------TMDB---------------------
+13.226.225.73 api.themoviedb.org
 3.163.125.69 api.tmdb.org
-3.163.125.108 api.tmdb.org
-3.163.125.75 api.tmdb.org
-3.163.125.105 api.tmdb.org
-#
-54.192.18.58 themoviedb.org
-54.192.18.90 themoviedb.org
-54.192.18.2 themoviedb.org
-54.192.18.100 themoviedb.org
-#
-108.157.30.21 tmdb.org
-108.157.30.62 tmdb.org
-108.157.30.40 tmdb.org
-108.157.30.100 tmdb.org
-#
-169.150.207.215 image.tmdb.org
-#
-13.226.125.88 api.thetvdb.com
-13.224.162.106 thetvdb.com
-#
+18.154.144.60 themoviedb.org
+18.154.144.73 www.themoviedb.org
+13.225.142.73 tmdb.org
+169.150.207.216 image.tmdb.org
+#-------------------Thetvdb------------------
+3.163.132.91 api.thetvdb.com
+18.154.130.110 thetvdb.com
+#-------------------fanart-------------------
 158.69.0.103 assets.fanart.tv
-192.99.151.161 assets.fanart.tv
-#
 51.89.210.79 webservice.fanart.tv
-#
 104.26.13.126 fanart.tv
-172.67.74.146 fanart.tv
-104.26.12.126 fanart.tv
 #----------------字幕------------------
-172.67.158.44 api.opensubtitles.org
 104.21.14.73 api.opensubtitles.org
 #----------------谷歌翻译/NTP------------------
-172.217.31.14 translate.google.com
-216.239.35.8 time.google.com
-216.239.35.4 time.google.com
+108.177.122.139 translate.google.com
 216.239.35.0 time.google.com
-216.239.35.12 time.google.com
 #--------------------结束---------------------
